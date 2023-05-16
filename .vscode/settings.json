@@ -1,6 +1,0 @@
-{
-    "[python]": {
-        "editor.defaultFormatter": "formulahendry.code-runner"
-    },
-    "python.formatting.provider": "none"
-}
