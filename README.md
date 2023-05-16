@@ -1,6 +1,6 @@
 # Scripts-Python
 
-Este é o repositório "Scripts-Python" de **wpaisano**, onde estão armazenados os scripts desenvolvidos durante o curso do canal do YouTube chamado **Curso em Vídeo**.
+Repositório "Scripts-Python" onde estão armazenados os scripts desenvolvidos durante o curso do canal do YouTube chamado **Curso em Vídeo**.
 
 ## Estrutura do Repositório
 
@@ -13,6 +13,7 @@ O repositório está organizado da seguinte maneira:
 ## Curso em Vídeo
 
 O **Curso em Vídeo** é um canal do YouTube criado com o intuito de oferecer aulas gratuitas e de qualidade sobre programação, incluindo Python. O curso aborda desde os conceitos básicos até assuntos mais avançados, permitindo que você desenvolva suas habilidades de programação.
+https://www.youtube.com/@CursoemVideo
 
 ## Como utilizar este repositório
 
